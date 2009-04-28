@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <type>module</type>
+        <description>Language labels for mm_synchro module cm1</description>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="title">synchro page - mmsynchro</label>
+        </languageKey>
+        <languageKey index="de">EXT:mmsynchro/Lang/de/de_locallang_cm1.xml</languageKey>
+    </data>
+</T3locallang>

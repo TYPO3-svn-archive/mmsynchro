@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;tools_txmmsynchroM1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">synchronisation</label>
+			<label index="tab1">configuration</label>
+			<label index="tab2">tables</label>
+			<label index="tab3">files</label>
+			<label index="tab4">pagetree</label>
+			<label index="tab5">synchronisation</label>
+			<label index="tab6">export</label>
+			<label index="tab7">import</label>
+			<label index="warning">please select an configuration or make an new</label>
+			<label index="new">new</label>
+			<label index="clear">clear selection</label>
+			<label index="edit">edit</label>
+			<label index="select">select</label>
+			<label index="delete">delete</label>
+			<label index="syncTitle">what will you synchronize &#63;</label>
+			<label index="realyDelete">Realy delete this Item &#63;</label>
+			<label index="selectAll">select all</label>
+			<label index="testDB">testing Database connection</label>
+			<label index="noConnect">no connection</label>
+			<label index="connect">connection enabled</label>
+			<label index="doExport">export database</label>	
+			<label index="doImport">import database</label>
+			<label index="sql">avalaible sql files</label>
+			<label index="noSql">no sql files</label>
+			<label index="elements">elements</label>
+			<label index="endImport">Import finished</label>
+			<label index="endExport">Export finished</label>
+			<label index="errorTitle">ERROR</label>
+			<label index="errorText">configure the extension in Ext-Manager</label>
+			<label index="selectOne">select one:</label>
+			<label index="noSave">Can't save the input values!</label>
+			<label index="backupPath">Backuppath</label>
+			<label index="backupPathText">Path to Backupfolder</label>
+			<label index="passwd">Password for AES Cipher</label>
+			<label index="passwdText">Password for AES Cipher</label>
+			<label index="save">save</label>
+			<label index="cm1_title">synchro page - mmsynchro</label>
+			<label index="cm1_noConfig">no configuration available</label>
+			<label index="cm1_select">select konfiguration</label>
+			<label index="cm1_start">start synchronisation</label>
+			<label index="cm1_end">synchronisation ends</label>
+			<label index="cm1_noPid">no pid avalaible</label>
+			<label index="cm1_pid">Page ID:</label>
+		</languageKey>
+		<languageKey index="de">EXT:mmsynchro/Lang/de/de_locallang.xml</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallangExt>
+	<data type="array">
+		<languageKey index="de" type="array">
+			<label index="title">Synchronisation</label>
+			<label index="tab1">Konfiguration</label>
+			<label index="tab2">Tabellen</label>
+			<label index="tab3">Dateien</label>
+			<label index="tab4">Seitenbaum</label>
+			<label index="tab5">Synchronisation</label>
+			<label index="tab6">Export</label>
+			<label index="tab7">Import</label>
+			<label index="warning">Bitte unten eine Konfiguration anlegen oder auswählen</label>
+			<label index="new">Neu anlegen</label>
+			<label index="clear">Auswahl aufheben</label>
+			<label index="edit">Bearbeiten</label>
+			<label index="select">Auswählen</label>
+			<label index="delete">Löschen</label>
+			<label index="syncTitle">Was wollen Sie Synchronisieren ?</label>
+			<label index="realyDelete">Wollen Sie den Datensatz wirklich löschen ?</label>
+			<label index="selectAll">Alle auswählen</label>
+			<label index="testDB">Datenbankverbindung testen</label>
+			<label index="noConnect">keine Verbindung möglich</label>
+			<label index="connect">Verbindung möglich</label>
+			<label index="doExport">Datenbank exportieren</label>
+			<label index="doImport">Datenbank importieren</label>
+			<label index="sql">Vorhandene SQL Dateien</label>
+			<label index="noSql">keine sql Dateien vorhanden</label>
+			<label index="elements">Elemente</label>
+			<label index="endImport">Import beendet</label>
+			<label index="endExport">Export beendet</label>
+			<label index="errorTitle">ERROR</label>
+			<label index="errorText">Bitte konfigurieren Sie die Extension im Extension-Manager</label>
+			<label index="selectOne">Auswahl:</label>
+			<label index="noSave">Beim Speichern ist ein Fehler aufgetreten!</label>
+			<label index="backupPath">Backuppfad</label>
+			<label index="backupPathText">Pfad zum Backupordner:</label>
+			<label index="passwd">Verschlüssellungspassword</label>
+			<label index="passwdText">Password zum Verschlüsseln:</label>
+			<label index="save">Speichern</label>
+			<label index="cm1_title">Synchronisiere Seite - mmsynchro</label>
+			<label index="cm1_noConfig">Keine Konfiguration vorhanden</label>
+			<label index="cm1_select">Konfiguration auswählen</label>
+			<label index="cm1_start">Synchronisation starten</label>
+			<label index="cm1_end">Synchronisation beendet</label>
+			<label index="cm1_noPid">Keine PageID vorhanden</label>
+			<label index="cm1_pid">Page ID:</label>
+		</languageKey>
+	</data>
+</T3locallangExt>

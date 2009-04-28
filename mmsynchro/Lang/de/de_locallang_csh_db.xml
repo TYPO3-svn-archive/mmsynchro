@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallangExt>
+	<data type="array">
+		<languageKey index="de" type="array">
+			<label index="title.description">Erlaubt ist [a-z][A-Z][0-9]</label>
+			<label index="path_target.description">Pfad zum externen Ordner</label>
+			<label index="path_target.details">Dieser Ordner muss existierren. 	
+			Es werden schreibrechte ben&#246;tigt. 		
+			Die Pfadangabe muss Absolut sein
+			Beispiel: /var/www/synchro/</label>
+			<label index="logPath.description">Pfad zum Log Ordner</label>
+			<label index="logPath.details">Dieser Ordner muss existierren. 
+			Es werden schreibrechte ben&#246;tigt 
+			Die Pfadangabe muss Absolut sein
+			Beispiel: /var/www/synchro/</label>
+			<label index="is_remote.description">Benötigt SSH2</label>
+			<label index="is_remote.details">Tutorial: http://kevin.vanzonneveld.net/techblog/article/make_ssh_connections_with_php/
+			Bugfix unter: http://de2.php.net/manual/de/ssh2.installation.php</label>
+		</languageKey>
+	</data>
+</T3locallangExt>

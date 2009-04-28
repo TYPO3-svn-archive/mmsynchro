@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>CSH for tx_mmsynchro</description>
+		<type>CSH</type>
+		<csh_table>tx_mmsynchro_config</csh_table>
+		<labelContext type="array"/>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title.description">Only [a-z][A-Z][0-9] are allowed</label>
+			<label index="path_target.description">This Folder must be exists</label>
+			<label index="path_target.details">This Folder must be exists. 
+			It must be writeable. 
+			It musst be an absolute path
+			Example: /var/www/synchro/</label>
+			<label index="logPath.description">This Folder must be exists</label>
+			<label index="logPath.details">This Folder must be exists. 
+			It must be writeable. 
+			It musst be an absolute path
+			Example: /var/www/synchro/</label>
+			<label index="is_remote.description">Required SSH2</label>
+			<label index="is_remote.details">Tutorial: http://kevin.vanzonneveld.net/techblog/article/make_ssh_connections_with_php/
+			Bugfix: http://de2.php.net/manual/de/ssh2.installation.php</label>
+		</languageKey>
+		<languageKey index="de">EXT:mmsynchro/Lang/de/de_locallang_csh_db.xml</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallangExt>
+	<data type="array">
+		<languageKey index="de" type="array">
+			<label index="tx_mmsynchro_tables">Synchronisationstabellen</label>
+			<label index="tx_mmsynchro_tables.synchro_table">Name</label>
+			<label index="tx_mmsynchro_tables.config">Konfiguration</label>
+			<label index="tx_mmsynchro_files">Datentabelle</label>
+			<label index="tx_mmsynchro_files.config">Konfiguration</label>
+			<label index="tx_mmsynchro_files.synchro_files">Daten</label>
+			<label index="tx_mmsynchro_config">Konfiguratationstabelle</label>
+			<label index="tx_mmsynchro_config.title">Konfigurationsname</label>
+			<label index="tx_mmsynchro_config.logPath">Pfad des Logordners</label>
+			<label index="tx_mmsynchro_config.path_target">Zielordner</label>
+			<label index="tx_mmsynchro_config.is_db">Datenbank synchronisieren ?</label>
+			<label index="tx_mmsynchro_config.dbUsername">Datenbank Benutzername</label>
+			<label index="tx_mmsynchro_config.dbPassword">Datenbank Passwort</label>
+			<label index="tx_mmsynchro_config.dbHost">Datenbank Host</label>
+			<label index="tx_mmsynchro_config.dbDatabase">Datenbankname</label>
+			<label index="tx_mmsynchro_config.is_remote">Remoteverbindung über SSH ?</label>
+			<label index="tx_mmsynchro_config.remoteUsername">SSH Username</label>
+			<label index="tx_mmsynchro_config.remotePassword">SSH Passwort</label>
+			<label index="tx_mmsynchro_config.remoteHost">SSH Host</label>
+			<label index="tx_mmsynchro_config.remotePort">SSH Port</label>
+		</languageKey>
+	</data>
+</T3locallangExt>
