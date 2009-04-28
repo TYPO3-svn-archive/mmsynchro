@@ -3,7 +3,7 @@
 	<data type="array">
 		<languageKey index="de" type="array">
 			<label index="mlang_tabs_tab">Backup</label>
-			<label index="mlang_labels_tabdescr">Modul zum erstellen von SQL Backups und die Möglichkeit dieses wieder zu Importieren</label>
+			<label index="mlang_labels_tabdescr">Modul zum Erstellen von SQL-Backups mit Möglichkeit der Wiederherstellung</label>
 			<label index="mlang_labels_tablabel">Backup</label>
 		</languageKey>
 	</data>

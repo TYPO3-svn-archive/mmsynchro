@@ -6,9 +6,9 @@
 	</meta>
 	<data type="array">
 		<languageKey index="default" type="array">
-			<label index="mlang_tabs_tab">backup</label>
-			<label index="mlang_labels_tabdescr">you can backup your system or import an backup</label>
-			<label index="mlang_labels_tablabel">backup</label>
+			<label index="mlang_tabs_tab">Backup</label>
+			<label index="mlang_labels_tabdescr">You can backup your system or import a backup</label>
+			<label index="mlang_labels_tablabel">Backup</label>
 		</languageKey>
 		<languageKey index="de">EXT:mmsynchro/Lang/de/de_locallang_mod3.xml</languageKey>
 	</data>

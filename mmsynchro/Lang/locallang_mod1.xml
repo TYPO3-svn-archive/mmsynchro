@@ -6,9 +6,9 @@
 	</meta>
 	<data type="array">
 		<languageKey index="default" type="array">
-			<label index="mlang_tabs_tab">synchronisation</label>
-			<label index="mlang_labels_tabdescr">syncronisation from production system to live system</label>
-			<label index="mlang_labels_tablabel">synchronisation</label>
+			<label index="mlang_tabs_tab">Synchronisation</label>
+			<label index="mlang_labels_tabdescr">Syncronisation from production system to live system</label>
+			<label index="mlang_labels_tablabel">Synchronisation</label>
 		</languageKey>
 		<languageKey index="de">EXT:mmsynchro/Lang/de/de_locallang_mod1.xml</languageKey>
 	</data>

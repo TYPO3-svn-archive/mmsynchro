@@ -6,7 +6,7 @@
 	</meta>
 	<data type="array">
 		<languageKey index="default" type="array">
-			<label index="mlang_tabs_tab">synchronisation</label>
+			<label index="mlang_tabs_tab">Synchronisation</label>
 		</languageKey>
 		<languageKey index="de">EXT:mmsynchro/Lang/de/de_locallang_mod2.xml</languageKey>
 	</data>

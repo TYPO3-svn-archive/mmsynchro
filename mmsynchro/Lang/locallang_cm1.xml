@@ -6,7 +6,7 @@
     </meta>
     <data type="array">
         <languageKey index="default" type="array">
-            <label index="title">synchro page - mmsynchro</label>
+            <label index="title">Synchro page - mmsynchro</label>
         </languageKey>
         <languageKey index="de">EXT:mmsynchro/Lang/de/de_locallang_cm1.xml</languageKey>
     </data>

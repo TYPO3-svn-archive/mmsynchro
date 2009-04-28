@@ -2,16 +2,16 @@
 <T3locallangExt>
 	<data type="array">
 		<languageKey index="de" type="array">
-			<label index="title.description">Erlaubt ist [a-z][A-Z][0-9]</label>
+			<label index="title.description">Erlaubt sind folgende Zeichen [a-z][A-Z][0-9]</label>
 			<label index="path_target.description">Pfad zum externen Ordner</label>
-			<label index="path_target.details">Dieser Ordner muss existierren. 	
-			Es werden schreibrechte ben&#246;tigt. 		
-			Die Pfadangabe muss Absolut sein
+			<label index="path_target.details">Der Ordner muss existieren! 	
+			Es werden Schreibrechte benötigt. 		
+			Die Pfadangabe muss absolut sein.
 			Beispiel: /var/www/synchro/</label>
-			<label index="logPath.description">Pfad zum Log Ordner</label>
-			<label index="logPath.details">Dieser Ordner muss existierren. 
-			Es werden schreibrechte ben&#246;tigt 
-			Die Pfadangabe muss Absolut sein
+			<label index="logPath.description">Pfad zum Log-Ordner</label>
+			<label index="logPath.details">Dieser Ordner muss existieren. 
+			Es werden Schreibrechte benötigt.
+			Die Pfadangabe muss absolut sein.
 			Beispiel: /var/www/synchro/</label>
 			<label index="is_remote.description">Benötigt SSH2</label>
 			<label index="is_remote.details">Tutorial: http://kevin.vanzonneveld.net/techblog/article/make_ssh_connections_with_php/

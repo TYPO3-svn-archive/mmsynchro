@@ -8,14 +8,14 @@
 	</meta>
 	<data type="array">
 		<languageKey index="default" type="array">
-			<label index="title.description">Only [a-z][A-Z][0-9] are allowed</label>
-			<label index="path_target.description">This Folder must be exists</label>
-			<label index="path_target.details">This Folder must be exists. 
+			<label index="title.description">Only [a-z][A-Z][0-9] are allowed!</label>
+			<label index="path_target.description">This Folder must be exists!</label>
+			<label index="path_target.details">This Folder must be exists! 
 			It must be writeable. 
 			It musst be an absolute path
 			Example: /var/www/synchro/</label>
-			<label index="logPath.description">This Folder must be exists</label>
-			<label index="logPath.details">This Folder must be exists. 
+			<label index="logPath.description">This Folder must be exists!</label>
+			<label index="logPath.details">This Folder must be exists! 
 			It must be writeable. 
 			It musst be an absolute path
 			Example: /var/www/synchro/</label>

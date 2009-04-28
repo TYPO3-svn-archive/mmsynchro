@@ -6,9 +6,9 @@
 	</meta>
 	<data type="array">
 		<languageKey index="default" type="array">
-			<label index="mlang_tabs_tab">configuration</label>
+			<label index="mlang_tabs_tab">Configuration</label>
 			<label index="mlang_labels_tabdescr"></label>
-			<label index="mlang_labels_tablabel">configuration</label>
+			<label index="mlang_labels_tablabel">Configuration</label>
 		</languageKey>
 		<languageKey index="de">EXT:mmsynchro/Lang/de/de_locallang_mod4.xml</languageKey>
 	</data>
