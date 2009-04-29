@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Synchronisation',
-	'description' => 'Synchronisation modul for Typo3 installations. Extension synchronises two installations via SSH (Remote) or synchronise two installations on a local system. Synchronisation backups database, filesystem and pagetree. The extension provides CLI.',
+	'description' => 'Synchronization modul for Typo3 installations. Extension synchronizes two installations via SSH (Remote) or synchronize two installations on a local system. Synchronization of the database, filesystem and pagetree. The extension provides CLI.',
 	'category' => 'module',
 	'author' => 'Patrick Kaeller, Timo Webler',
 	'author_email' => 'kaeller@mediaman.de',
